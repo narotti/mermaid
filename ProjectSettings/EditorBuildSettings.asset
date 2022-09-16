@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ship.unity
     guid: dd15608da08f6d9418fedf5c1ccc63e3
+  - enabled: 1
+    path: Assets/Scenes/prince.unity
+    guid: c5c5525c6545ead4483f929b28075d60
+  - enabled: 1
+    path: Assets/Scenes/ursula.unity
+    guid: 8443029405bf78b40a418cf0dae50790
   m_configObjects: {}
