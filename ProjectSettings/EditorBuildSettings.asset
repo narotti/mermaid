@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ariel.unity
     guid: c83939a7ad294e04495f6aaa37e007a7
+  - enabled: 1
+    path: Assets/Scenes/ship.unity
+    guid: dd15608da08f6d9418fedf5c1ccc63e3
   m_configObjects: {}
