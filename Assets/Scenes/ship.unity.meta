@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/ship.unity.meta
 guid: dd15608da08f6d9418fedf5c1ccc63e3
+========
+guid: 0b37480cff076674cbdd399266738fe9
+>>>>>>>> 4364b32a81de542f94d042d1119bf3f00ae221c5:Assets/mermaid/prince/ship/Ghost Ship (Kalidus Channel).mtl.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
