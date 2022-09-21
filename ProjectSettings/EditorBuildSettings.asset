@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ursula.unity
     guid: 8443029405bf78b40a418cf0dae50790
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: fc685e2074b838041831bfba84446221
   m_configObjects: {}
